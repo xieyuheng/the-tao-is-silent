@@ -11,8 +11,8 @@
 
 *** 1. [[./part1-what-is-the-tao/1-chinese-philosophy-in-a-nutshell.html][簡說中國哲學]]
 *** 2. [[./part1-what-is-the-tao/2-the-tao.html][道]]
-*** 3. Does The Tao Exist?
-*** 4. Yes, But Does The Tao Exist?
+*** 3. [[./part1-what-is-the-tao/3-does-the-tao-exist.html][道存在嗎]]
+*** 4. [[./part1-what-is-the-tao/4-yes-but-does-the-tao-exist.html][沒錯 然而道存在嗎]]
 *** 5. The Tao is Vague!
 *** 6. The Tao is Formless
 *** 7. The Tao is a Mysterious Female
