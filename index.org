@@ -14,7 +14,7 @@
 *** 3. [[./part1-what-is-the-tao/3-does-the-tao-exist.html][道存在嗎]]
 *** 4. [[./part1-what-is-the-tao/4-yes-but-does-the-tao-exist.html][沒錯 然而道存在嗎]]
 *** 5. The Tao is Vague!
-*** 6. The Tao is Formless
+*** 6. [[./part1-what-is-the-tao/6-the-tao-is-formless.html][道是無形的]]
 *** 7. The Tao is a Mysterious Female
 *** 8. The Tao Has No Name
 *** 9. The Tao Does Not Talk
