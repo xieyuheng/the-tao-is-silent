@@ -17,7 +17,7 @@
 *** 6. [[./part1-what-is-the-tao/6-the-tao-is-formless.html][道是無形的]]
 *** 7. The Tao is a Mysterious Female
 *** 8. The Tao Has No Name
-*** 9. The Tao Does Not Talk
+*** 9. [[./part1-what-is-the-tao/9-the-tao-does-not-talk.html][道不說話]]
 *** 10. The Tao And The Sage. They Never Argue
 *** 11. I Am Like A Mirror
 *** 12. The Tao Is Everywhere
